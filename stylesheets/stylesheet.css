@@ -94,6 +94,7 @@ h6 {
 }
 
 p {
+  font-size: 18px;
   margin: 10px 0 15px 0;
 }
 
@@ -356,6 +357,7 @@ Full-Width Styles
 
 #main_content_wrap {
   background: url(../images/sand.jpg);
+  background-size: 100% 100%;
   border-top: 1px solid #111;
   border-bottom: 1px solid #111;
 }
